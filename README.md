@@ -12,6 +12,7 @@ This GitHub repository serves as an evolving archive of my intellectual work. Ra
 - Encourage open discourse,
 - Allow the public to track the evolution of ideas,
 - Blend rigorous thinking with community-driven refinement.
+- A PR process is used as much as possible
 
 ---
 
